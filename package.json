@@ -1,6 +1,6 @@
 {
   "name": "ibge-version",
-  "version": "0.2.0",
+  "version": "0.1.2",
   "description": "Utilitário para versionamento através das git tags",
   "bin": {
     "ibge-version": "./ibge-version.js"
